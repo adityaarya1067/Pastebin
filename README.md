@@ -15,7 +15,7 @@ cd pastebin-keyword-crawler
 ``` bash
 pip install requests beautifulsoup4
 ```
-3.
+3.Run
 ```bash
 python main.py
 ```
