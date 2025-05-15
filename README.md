@@ -11,5 +11,8 @@ This tool scrapes the [Pastebin Archive](https://pastebin.com/archive) to detect
 git clone https://github.com/yourusername/pastebin-keyword-crawler.git
 cd pastebin-keyword-crawler
 ```
-###2. pip install requests beautifulsoup4
-###3.python main.py
+###2. Install dependencies
+``` bash
+pip install requests beautifulsoup4
+```
+###3.``` bash python main.py ```
