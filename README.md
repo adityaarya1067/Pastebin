@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Pastebin Keyword Crawler (Crypto & Telegram Links)
 
-This tool scrapes the [Pastebin Archive](https://pastebin.com/archive) to detect pastes containing **crypto-related keywords** or **Telegram links** (like `t.me`). It outputs results in a structured `.jsonl` format and is useful for threat intelligence, OSINT, or cybersecurity research.
+This tool scrapes the [Pastebin Archive](https://pastebin.com/archive) to detect pastes containing **crypto-related keywords** or **Telegram links** (like `t.me`). It outputs results in a structured `.jsonl` format and is useful for threat intelligence, OSINT, or cybersecurity research
 
 ---
 
